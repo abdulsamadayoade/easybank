@@ -417,5 +417,8 @@ footer ul li {
     html {
         font-size: 9px;
     }
-} 
+    
+    .features--intro {
+        width: 100%;
+    }
 }
